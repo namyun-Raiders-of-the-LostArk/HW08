@@ -427,3 +427,20 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Unreal Engine 
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal generated project files
+*.opensdf
+*.sdf
+*.VC.db
+
+# Mac / Linux 
+*.DS_Store
+
+# Optional: 
+Build/
